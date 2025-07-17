@@ -1,5 +1,6 @@
 package com.example.data_structure;
 
+//climb stair
 public class Demo2 {
 
     public static int climbStairs(int n) {
