@@ -1,4 +1,4 @@
-package com.example.data_structure;
+package com.example.data_structure.michael_session;
 
 //climb stair
 public class Demo2 {
