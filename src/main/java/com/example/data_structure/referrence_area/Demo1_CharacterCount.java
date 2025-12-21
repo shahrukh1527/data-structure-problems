@@ -2,7 +2,7 @@ package com.example.data_structure.referrence_area;
 
 //count number of character
 // aaaabbbccc-a4b3c3
-public class AreaDemo1 {
+public class Demo1_CharacterCount {
     public static String getFormattedString(String input) {
         int count = 0;
         char[] ch = input.toCharArray();
